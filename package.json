@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "maxiaobu1999",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^2.7.3",
+    "umi-plugin-react": "^1.8.2"
+  }
 }

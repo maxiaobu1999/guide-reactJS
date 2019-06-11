@@ -13,3 +13,8 @@
 .externalNativeBuild
 
 /.idea
+/dist
+src/pages/.umi/*
+
+yarn.lock
+/node_modules
