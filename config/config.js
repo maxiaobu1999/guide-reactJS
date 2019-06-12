@@ -6,6 +6,6 @@ export default {
         ['umi-plugin-react', {
             //暂时不启用任何功能
             dva : true , //开启了dva功能,
-            antd : true
+            antd : true //开启Ant Design功能
         }]]
 };
